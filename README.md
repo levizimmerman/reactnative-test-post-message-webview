@@ -4,5 +4,6 @@ $ npm install
 ```
 
 ```
-$ npm run dev
+$ npm run ios
+$ npm run android
 ```

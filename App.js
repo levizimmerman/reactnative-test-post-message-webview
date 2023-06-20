@@ -9,8 +9,8 @@ import {
   TextInput,
   View,
   Text,
+  SafeAreaView,
 } from "react-native";
-import { SafeAreaView } from "react-native";
 
 export default function App() {
   const [url, setUrl] = React.useState("");
